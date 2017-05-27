@@ -1,0 +1,21 @@
+# Site settings
+title: Dustin Anderson's Programming Blog of Wonders
+header-img: img/home-bg.png
+email: dandersonsoftware@outlook.com
+copyright_name: TheDreamingTree145
+description: > # this means to ignore newlines until "baseurl:"
+  For Today and the Future
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  TheDreamingTree145
+learn_profile: TheDreamingTree145
+email_username: dandersonsoftware@outlook.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
