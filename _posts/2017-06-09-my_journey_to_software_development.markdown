@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Journey to Software Development "
-date:   2017-06-09 22:04:53 +0000
+date:   2017-06-09 18:04:53 -0400
 ---
 
 
