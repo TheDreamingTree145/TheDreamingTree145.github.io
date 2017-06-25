@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My First Portfolio Project"
-date:   2017-06-25 17:11:38 +0000
+date:   2017-06-25 13:11:39 -0400
 ---
 
 
@@ -16,6 +16,8 @@ I'm proud of what I created. I'm not proud of how the code is laid out as I'm su
 I certainly didn't think I was an expert before this project, but other than gaining some confidence in my abilities, I learned there is so much more to learn. In all reality, I could have spent months on this project adding all sorts of cool features to my program. I guess part of what makes programming exciting is continously learning about new features I can add or a better way of doing things to make my program better.
 
 Technically, I still am struggling a bit with understanding how to make classes relate to one another the way I would like them too. My top priority while moving forward and continuing to learn is to keep working to understand class relationships so I can manipulate objects to interact the way I would like. Refactoring this code will be a priority moving forward. 
+
+Git and Github are absolutely priorities moving forward as well. I've relied on the Learn IDE commands such as learn save, learn submit, etc. Which left me way behind in git commands. I did my best as far as commits and doing the right things, but I have a lot to learn about version control etc as it is essential to real world application.
 
 Overall, I believe I'm starting to think more and more like a programmer. I always thought of programming as something that was pure logic, and clearly lots of logic is involved, but it's really about being able to think outside the box as well, which makes it all the more exciting!
 
