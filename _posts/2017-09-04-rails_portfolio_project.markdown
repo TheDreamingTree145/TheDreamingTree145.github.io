@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rails Portfolio Project"
-date:   2017-09-04 13:59:49 +0000
+date:   2017-09-04 09:59:49 -0400
 ---
 
 ## - The Feel, Process, and Results
