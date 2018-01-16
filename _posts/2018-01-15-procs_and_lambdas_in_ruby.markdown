@@ -26,6 +26,6 @@ second_incrementer = number_counter
 first_incrementer.call #returns 5
 first_incrementer.call #returns 10
 
-second_incrementer.call #returns 5
+second_incrementer.call #returns 5```
 
 
