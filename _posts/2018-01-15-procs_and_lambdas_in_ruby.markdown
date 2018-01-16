@@ -17,9 +17,9 @@ Both are most often called simply by ```saved_block.call```
 The most special thing about Procs and Lambdas, and something that fans of JavaScript will appreciate, is that they create closures. For example:
 
 ```def number_incrementer```
-   ```num = 0```
-   ```Proc.new {num + 5}```
-```end```
+   num = 0
+   Proc.new {num + 5}
+end```
 
 ```first_incrementer = number_counter```
 ```second_incrementer = number_counter```
@@ -29,4 +29,6 @@ The most special thing about Procs and Lambdas, and something that fans of JavaS
 
 ```second_incrementer.call #returns 5```
 
-There are a few key differences between Procs and Lambdas in Ruby. The first is Procs does not care about arguments, but Lambdas do. Similar to regular Ruby methods, if you define a Lambda with 2 arguments but call it with 0, you will get an error. Procs, however, would not raise an error. t
+There are a few key differences between Procs and Lambdas in Ruby. The first is Procs does not care about arguments, but Lambdas do. Similar to regular Ruby methods, if you define a Lambda with 2 arguments but call it with 0, you will get an error. Procs, however, would not raise an error. 
+
+The most important difference between Procs and Lambdas is how they return. Lambdas will return like normal Ruby methods.
