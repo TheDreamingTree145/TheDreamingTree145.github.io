@@ -14,9 +14,10 @@ Typically Procs are defined as ```saved_block = Proc.new {puts "Hello World"}```
 
 Both are most often called simply by ```saved_block.call```
 
-The most special thing about Procs and Lambdas, and something that fans of JavaScript will appreciate, is that they create closures. For example, ```def number_incrementer
-num = 0
-Proc.new {num + 5}
+The most special thing about Procs and Lambdas, and something that fans of JavaScript will appreciate, is that they create closures. For example, 
+```def number_incrementer
+   num = 0
+   Proc.new {num + 5}
 end
 
 first_incrementer = number_counter
