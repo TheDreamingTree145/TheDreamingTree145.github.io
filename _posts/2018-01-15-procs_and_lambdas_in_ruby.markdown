@@ -16,10 +16,10 @@ Both are most often called simply by ```saved_block.call```
 
 The most special thing about Procs and Lambdas, and something that fans of JavaScript will appreciate, is that they create closures. For example:
 
-`def number_incrementer\n 
-   num = 0\n
-   Proc.new {num + 5}\n
-end\n`
+`def number_incrementer/n 
+   num = 0/n
+   Proc.new {num + 5}/n
+end/n`
 
 ```first_incrementer = number_counter```
 ```second_incrementer = number_counter```
